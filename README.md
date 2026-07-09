@@ -9,6 +9,7 @@ Overview media for the [Entity Core](https://entitycore.org) initiative and the 
 | [The Entity Operating System](the-entity-operating-system.pdf) | PDF, 15 pages | Visual brief: the definitive blueprint for organizational memory that outlives individual tools, temporary AI context, and departing teams |
 | [Entity Core Blueprint](entity-core-blueprint.pdf) | PDF, 14 pages | Visual brief: the problem, the paradigm shift from personal-centered to entity-centered, and the EIOS/Keel/Weave stack |
 | [EIOS — Organizational Memory](eios-organizational-memory.mp4) | Video (MP4) | Video overview of EIOS and organizational memory |
+| [The Architecture of Organizational Memory](the-architecture-of-organizational-memory.mp4) | Video (MP4) | Video overview of the EIOS architecture: zones, events, knowledge, and governed views |
 | [How EIOS Stops Corporate Amnesia](how-eios-stops-corporate-amnesia.m4a) | Audio (M4A) | Audio overview — conversational walkthrough of the fragmentation problem and how EIOS addresses it |
 
 ## Provenance
