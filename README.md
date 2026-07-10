@@ -9,7 +9,7 @@ Overview media for the [Entity Core](https://entitycore.org) initiative and the 
 | [The Entity Operating System](the-entity-operating-system.pdf) | PDF, 15 pages | Visual brief: the definitive blueprint for organizational memory that outlives individual tools, temporary AI context, and departing teams |
 | [Entity Core Blueprint](entity-core-blueprint.pdf) | PDF, 14 pages | Visual brief: the problem, the paradigm shift from personal-centered to entity-centered, and the EIOS/Keel/Weave stack |
 | [EIOS — The AI Context Crisis](eios-ai-context-crisis.mp4) | Video (MP4) | Video overview — AI can only work with the context it can see; EIOS is the AI-native information core that provides it |
-| [The Architecture of Organizational Memory](the-architecture-of-organizational-memory.mp4) | Video (MP4) | Video overview of the EIOS architecture: zones, events, knowledge, and governed views |
+| [Architecting the AI-Native Enterprise](architecting-the-ai-native-enterprise.mp4) | Video (MP4) | Video overview of the EIOS architecture — zones, events, knowledge, and governed views as the context foundation for an AI-native organization |
 | [Curing Corporate Amnesia with the EIOS Keel](curing-corporate-amnesia-with-the-eios-keel.m4a) | Audio (M4A) | Audio overview — why AI needs full context, and how the EIOS Keel gives agents and humans one governed information core. Also on [SoundCloud](https://soundcloud.com/valto-loikkanen-591969885/entity-core-the-information) |
 
 ## Provenance
